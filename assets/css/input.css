@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+    html {
+        scroll-behavior: smooth;
+    }
+    .border-gradient::before {
+        background: radial-gradient(300px circle at var(--x)var(--y),hsl(var(--primary))0,transparent 100%);
+        display: none;
+    }
+}

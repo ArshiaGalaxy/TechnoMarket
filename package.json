@@ -1,0 +1,11 @@
+{
+  "name": "techno-market",
+  "version": "1.0.0",
+  "description": "template for shop websites",
+  "main": "index.js",
+  "scripts": {
+    "run_css": "px tailwindcss -i ./assets/css/input.css -o ./assets/css/tailwind.min.css --watch"
+  },
+  "author": "arshia",
+  "license": "ISC"
+}

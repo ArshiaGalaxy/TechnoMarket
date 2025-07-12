@@ -1,0 +1,20 @@
+Template Name: 
+    Techno Market
+
+Template Category:
+    Shop (Technology)
+
+Template Theme:
+    1.Blue(#4335A7) / Purple(#756AB6)
+    3.White Blue(#80C4E9) / Pink(#AC87C5)
+    2.Dark / Light
+
+Template Technology:
+    1.HTML
+    2.Css
+    3.JS
+    4.Jquery
+    5.TailwindCss
+
+Template Similar:
+    https://rtlr.ir/266095

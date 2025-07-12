@@ -1,0 +1,18 @@
+:root {
+    /* primary color to hsl hsl(247, 52%, 43%) without hsl(...,...,...) only 247 52% 43% */
+    --primary: 199 99% 34% ; 
+    --red: 0 84.2% 60.2% ;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+.border-gradient::before {
+    background: radial-gradient(300px circle at var(--x)var(--y),hsl(var(--primary))0,transparent 100%);
+}
+
+#special-products .border-gradient::before {
+    background: radial-gradient(300px circle at var(--x)var(--y),hsl(var(--red))0,transparent 100%);
+}
