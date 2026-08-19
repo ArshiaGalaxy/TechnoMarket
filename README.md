@@ -18,13 +18,13 @@ TechnoMarket is a Persian-first e-commerce UI template designed for technology s
 
 <div align="center">
 
-<img src="assets/screenshots/home.png" alt="TechnoMarket Home" width="49%">
+<img src="assets/home.webp" alt="TechnoMarket Home" height="3600px">
 
-<img src="assets/screenshots/mega-menu.png" alt="TechnoMarket Mega Menu" width="49%">
+<img src="assets/mobile.webp" alt="TechnoMarket Mobile" height="3600px">
 
-<img src="assets/screenshots/dark-mode.png" alt="TechnoMarket Dark Mode" width="49%">
+<img src="assets/dark_mode.webp" alt="TechnoMarket Dark Mode" height="3600px">
 
-<img src="assets/screenshots/mobile.png" alt="TechnoMarket Mobile View" width="49%">
+<img src="assets/dark_mode_mobile.webp" alt="TechnoMarket Dark Mode Mobile" height="3600px">
 
 </div>
 
